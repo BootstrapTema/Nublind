@@ -1,12 +1,3 @@
-/* Theme Name: Hublind - Landing page Template
-   Author: Coderthemes
-   Author e-mail: coderthemes@gmail.com
-   Version: 1.0.0
-   Created: May 2017
-   File Description:Main JS file of the template
-*/
-
-
 (function ($) {
 
     'use strict';
